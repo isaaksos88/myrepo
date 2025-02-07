@@ -1,18 +1,18 @@
-0.0.0.0 poki.com/es
-0.0.0.0 1001juegos.com/
-0.0.0.0 juegos.com/
-0.0.0.0 spa.cartoonnetworkla.com/juegos
-0.0.0.0 minijuegos.mx/
-0.0.0.0 microsoft.com/es-mx/store/top-free/games/pc
-0.0.0.0 xbox.com/es-MX/xbox-game-pass/games
-0.0.0.0 store.epicgames.com/es-MX/free-games
-0.0.0.0 friv.com/z/play/juegos.html
-0.0.0.0 juegos.games/
-0.0.0.0 juegosjuegos.ws/
-0.0.0.0 playhop.com/es
-0.0.0.0 store.steampowered.com/genre/Free%20to%20Play/?l=spanish
-0.0.0.0 juegosdiarios.com/
-0.0.0.0 boing.es/juegos
-0.0.0.0 taktaktak.com/juegos-gratis
-0.0.0.0 wordwall.net/es-ar/community/juegos-gratis
-0.0.0.0 juegosjuegos.com/
+poki.com/es
+1001juegos.com/
+juegos.com/
+spa.cartoonnetworkla.com/juegos
+minijuegos.mx/
+microsoft.com/es-mx/store/top-free/games/pc
+xbox.com/es-MX/xbox-game-pass/games
+store.epicgames.com/es-MX/free-games
+friv.com/z/play/juegos.html
+juegos.games/
+juegosjuegos.ws/
+playhop.com/es
+store.steampowered.com/genre/Free%20to%20Play/?l=spanish
+juegosdiarios.com/
+boing.es/juegos
+taktaktak.com/juegos-gratis
+wordwall.net/es-ar/community/juegos-gratis
+juegosjuegos.com/
