@@ -14,5 +14,5 @@ store.steampowered.com
 juegosdiarios.com
 boing.es
 taktaktak.com
-wordwall.net
+//wordwall.net
 juegosjuegos.com
