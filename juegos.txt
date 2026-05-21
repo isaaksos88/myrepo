@@ -360,3 +360,57 @@ fnafgames.net
 www.fnafgames.net
 api.fnafgames.net
 cdn.fnafgames.net
+
+
+# minijuegos
+# Dominios Core e Internacionales
+minijuegos.com
+minijuegos.mx
+miniplay.com
+mundijuegos.com
+
+# Infraestructura, APIs y subdominios técnicos
+api.minijuegos.com
+ext.minijuegos.com
+ssl.minijuegos.com
+blog.minijuegos.com
+m.minijuegos.com
+minitorneos.minijuegos.com
+# Variaciones de nombre habituales y dominios espejo
+mini-juegos.es
+losminijuegos.com
+minijuegosgratis.com
+minijuegosgratis.es
+juegosminijuegos.com
+minijuegos10.com
+juegos-minijuegos.com
+minijuegos.cc
+minijuegos.to
+minijuegos.me
+minijuegos.online
+# Infraestructura de distribución de juegos web y clones
+y8.com
+gamedistribution.com
+api.gamedistribution.com
+html5.api.gamedistribution.com
+gamepix.com
+api.gamepix.com
+crazygames.com
+poki.com
+friv.com
+.minijuegos.com
+.minijuegos.mx
+.miniplay.com
+.mundijuegos.com
+.mini-juegos.es
+.losminijuegos.com
+.minijuegosgratis.com
+.minijuegosgratis.es
+.juegosminijuegos.com
+.minijuegos10.com
+.juegos-minijuegos.com
+.gamedistribution.com
+.gamepix.com
+.y8.com
+
+freehd24.site
