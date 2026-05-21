@@ -1,14 +1,42 @@
-0.0.0.0 netflix.com
-0.0.0.0 netflix.net
-0.0.0.0 nflxext.com
-0.0.0.0 nflximg.net
-0.0.0.0 nflxso.net
-0.0.0.0 nflxvideo.net
-0.0.0.0 *.netflix.com
-0.0.0.0 *.netflix.net
-0.0.0.0 *.nflxext.com
-0.0.0.0 *.nflximg.net
-0.0.0.0 *.nflxso.net
-0.0.0.0 *.nflxvideo.net
-0.0.0.0 *.netflix.com/mx/
+# Disney
+# ASN asociados:
+# AS19437 (Disney Worldwide Services)
+# AS394236 (BAMTECH LLC - la infraestructura de video que compró Disney)
+disneyplus.com
+disney-plus.net
+disneymediaconnect.com
+dssott.com
+execute-api.us-east-1.amazonaws.com
+starplus.com
 
+# Amazon Prime
+# ASN asociados: (no recomendable usar bloqueo por ASN en este sitio)
+# AS16509 (Amazon.com Inc)
+# AS14618 (Amazon AWS)
+primevideo.com
+amazonvideo.com
+pv-cdn.net
+atv-ext-global.amazon.com
+
+# Max (HBO Max) 
+# ASN asociados:
+# AS22256 (WarnerMedia, LLC)
+max.com
+hbomax.com
+hbo.com
+discomax.com
+hbomaxcdn.com
+
+# Apple TV+
+# ASN asociados: (El ASN podría bloquear actualizaciones iOS/macOs, bloquear iCloud u otras herramientas)
+# AS714 (Apple Inc.)
+tv.apple.com
+linear.tv.apple.com
+play-edge.itunes.apple.com
+
+# VIX
+# ASN asociados (El ASN podría tirar algunos sitios de comunicación corporativa)
+# AS22805 (Televisa S.A. de C.V.)
+vix.com
+vixplus.com
+tudn.com
